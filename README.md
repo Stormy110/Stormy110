@@ -7,5 +7,5 @@ My name is Ian Storms and I am an aspiring software developer.
 - 👯 I’m looking to collaborate on ... anything interesting!
 - 📫 How to reach me: ... [email](ianstorms110@yahoo.com) || [linkedin](https://www.linkedin.com/in/ianstorms/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I spent 6 years living and teaching in China. Ni Hao!:cn
+- ⚡ Fun fact: ... I spent 6 years living and teaching in China. Ni Hao! :cn
 
