@@ -9,3 +9,4 @@ My name is Ian Storms and I am an aspiring software developer.
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I spent 6 years living and teaching in China. Nĭ Hăo! :cn:
 
+![Visitor Count](https://profile-counter.glitch.me/{Stormy110}/count.svg)
