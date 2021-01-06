@@ -13,5 +13,4 @@ My name is Ian Storms and I am an aspiring software developer.
 
 
 
-Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/{Stormy110}/count.svg)
+<p align="center"><tb><img  src="https://visitor-badge.glitch.me/badge?page_id=shoel-uddin.Game-List"/></tb></p>
