@@ -5,7 +5,7 @@ My name is Ian Storms and I am an aspiring software developer.
 - 🔭 I’m currently working on ... DigiticalCrafts Coding Bootcamp.
 - 🌱 I’m currently learning ... PostgreSQL, React.js and Express.js
 - 👯 I’m looking to collaborate on ... anything interesting!
-- 📫 How to reach me: ... [Email](ianstorms110@yahoo.com) || [Linkedin](https://www.linkedin.com/in/ianstorms/) || [Portfolio](https://www.ianstorms.com)
+- 📫 How to reach me: ...  [Linkedin](https://www.linkedin.com/in/ianstorms/) || [Portfolio](https://www.ianstorms.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I spent 6 years living and teaching in China. Nĭ Hăo! :cn:
 
