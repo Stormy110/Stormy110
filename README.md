@@ -12,4 +12,4 @@ My name is Ian Storms and I am an aspiring software developer.
 
 
 
-<p align="center"><tb><img  src="https://visitor-badge.glitch.me/badge?page_id=shoel-uddin.Game-List"/></tb></p>
+<p align="center"><tb><img  src="https://visitor-badge.glitch.me/badge?page_id=Ian-Storms.README"/></tb></p>
